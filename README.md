@@ -10,7 +10,7 @@ This extension can help you sort by dragging the rows of the data list, the fron
 ## Installation
 
 ```shell
-composer require laravel-admin-ext/grid-sortable -vvv
+composer require tudouer/larvel-admin-ext-grid-sortable -vvv
 ```
 
 Publish asserts
