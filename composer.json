@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/grid-sortable",
+    "name": "tudouer/larvel-admin-ext-grid-sortable",
     "description": "Sort the grid data by drag and drop rows",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "grid", "sortable"],
